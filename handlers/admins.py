@@ -16,7 +16,7 @@ from helpers.wrappers import errors, admins_only
 @admins_only
 async def pause(client: Client, message: Message):
     tgcalls.pytgcalls.pause_stream(message.chat.id)
-    await message.reply_text("⏸ PAUSED.")
+    await message.reply_text("😡PAUSED⏸️.")
 
 
 @Client.on_message(
@@ -28,7 +28,7 @@ async def pause(client: Client, message: Message):
 @admins_only
 async def resume(client: Client, message: Message):
     tgcalls.pytgcalls.resume_stream(message.chat.id)
-    await message.reply_text("▶️ RESUMED👀PM.")
+    await message.reply_text("🐥RESUMED👀PM.")
 
 
 @Client.on_message(
