@@ -28,7 +28,7 @@ CONFIG VARS:
 
 * THAT IS EASY WAY TO DEPLOY ✅
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/MUSIC-PLAYER-ULTRA/)
+[![Deploy]("https://github.com/PURHSHOTTAM/MUSIC-PLAYER-ULTRA/)
 
 <div class="separator" style="clear: both; text-align: center;">
 
